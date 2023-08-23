@@ -8,6 +8,10 @@
 
 ![](https://github.com/gpols/Generative-Drawing/blob/ccbbce6839d65c2d339fdff6b978ad61bc45fca3/images%3Agifs/recursive.png)
 
+![](https://github.com/gpols/Generative-Drawing/blob/f0bf349e9b138afe903077c842232f6aab938417/images%3Agifs/sinusoidal.gif)
+
+
+
 
 
 
