@@ -1,8 +1,8 @@
 # Generative-Drawing
 
-# A first-level heading A selection of animation made with P5js.
+## A selection of animation made with P5js.
 
-Dancing flower (Phase Sketch)
+### Dancing flower (Phase Sketch)
 A version of one of many possibilities of the mathematical rose using sine and cosine.
 
 ![](https://github.com/gpols/Generative-Drawing/blob/0188bf397111e9d827821e76ec5427039312cf03/phase_sketch.gif)
