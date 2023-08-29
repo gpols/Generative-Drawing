@@ -8,7 +8,9 @@ A version of one of many possibilities of the mathematical rose using sine and c
 ![](https://github.com/gpols/Generative-Drawing/blob/0188bf397111e9d827821e76ec5427039312cf03/phase_sketch.gif)
 
 ### The Running Blocks (Random Sketch)
-I have always been fascinated by symmetry. I remember coming across images of massive identical blocks of buildings in Asia one next to another, making it almost impossible to tell them apart. I thought it would be intriguing to attempt to recreate such a concept.
+I have always been fascinated by symmetry. 
+I remember coming across images of massive identical blocks of buildings in Asia one next to another, 
+making it almost impossible to tell them apart. I thought it would be intriguing to attempt to recreate such a concept.
 Random is so fun!
 
 ![](https://github.com/gpols/Generative-Drawing/blob/e8fc57195786fade6053f0f43d8e5637368b3c89/images%3Agifs/random.gif)
