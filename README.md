@@ -1,6 +1,6 @@
-# Generative-Drawing
+<h1> Generative Drawing </h1> 
 
-## A selection of animation made with P5js
+<p><em> A selection of animation made with P5js during first year at university. </em></p>
 
 ### Dancing flower (Phase Sketch)
 A version of one of many possibilities of the mathematical rose using sine and cosine.
