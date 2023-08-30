@@ -30,7 +30,7 @@
 <h2> ALTR Space </h2> 
 <p><em> ~ Recursive Sketch ~ </em></p>
 
-<img src="https://github.com/gpols/Generative-Drawing/blob/ccbbce6839d65c2d339fdff6b978ad61bc45fca3/images%3Agifs/recursive.png" width="500">
+<img src="https://github.com/gpols/Generative-Drawing/blob/ccbbce6839d65c2d339fdff6b978ad61bc45fca3/images%3Agifs/recursive.png">
 <p> In some distant galaxy, stars take on the form of various-sized rectangles, adrift in the immense expanse of space.</p>
 <p> 3d recursive function.</p>
 <br>
