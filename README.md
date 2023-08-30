@@ -1,11 +1,14 @@
 <h1> Generative Drawing </h1> 
 
 <p><em> A selection of animation made with P5js during first year at university. </em></p>
+<br>
 
-### Dancing flower (Phase Sketch)
-A version of one of many possibilities of the mathematical rose using sine and cosine.
+<h2> Dancing flower </h2>
+<p><em> ~ Phase Sketch ~ </em></p>
 
-![](https://github.com/gpols/Generative-Drawing/blob/0188bf397111e9d827821e76ec5427039312cf03/phase_sketch.gif)
+<img src="https://github.com/gpols/Generative-Drawing/blob/0188bf397111e9d827821e76ec5427039312cf03/phase_sketch.gif">
+<p> A version of one of many possibilities of the mathematical rose using sine and cosine.</p>
+
 
 ### The Running Blocks (Random Sketch)
 I have always been fascinated by symmetry. 
@@ -24,7 +27,7 @@ Attempt to create ocean waves with additive synthesis.
 In some distant galaxy, stars take on the form of various-sized rectangles, adrift in the immense expanse of space.
 3d recursive function.
 
-![](https://github.com/gpols/Generative-Drawing/blob/ccbbce6839d65c2d339fdff6b978ad61bc45fca3/images%3Agifs/recursive.png)
+![]([https://github.com/gpols/Generative-Drawing/blob/ccbbce6839d65c2d339fdff6b978ad61bc45fca3/images%3Agifs/recursive.png](https://github.com/gpols/Generative-Drawing/blob/128e28c7dbc52a1fc63ae78a566b2206ef4ff374/images%3Agifs/recursive.png))
 
 ### Mycelium (Autonomous Agent Sketch)
 This animation draws inspiration from the networks of fungal roots and was created using Boids code.
