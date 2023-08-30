@@ -23,21 +23,25 @@
 <h2> Ocean Waves </h2>
 <p><em> ~ Sinusoidal Sketch ~ </em></p>
 
-<img src="https://github.com/gpols/Generative-Drawing/blob/f0bf349e9b138afe903077c842232f6aab938417/images%3Agifs/sinusoidal.gif" width="400">
+<img src="https://github.com/gpols/Generative-Drawing/blob/f0bf349e9b138afe903077c842232f6aab938417/images%3Agifs/sinusoidal.gif">
 <p> Attempt to create ocean waves with additive synthesis. </p>
+<br>
+
+<h2> ALTR Space </h2> 
+<p><em> ~ Recursive Sketch ~ </em></p>
+
+<img src="https://github.com/gpols/Generative-Drawing/blob/ccbbce6839d65c2d339fdff6b978ad61bc45fca3/images%3Agifs/recursive.png" width="300">
+<p> In some distant galaxy, stars take on the form of various-sized rectangles, adrift in the immense expanse of space.</p>
+<p> 3d recursive function.</p>
+<br>
+
+<h2> Mycelium </h2>  
+<p><em> ~ Autonomous Agent Sketch ~ </em></p>
+
+<img src="https://github.com/gpols/Generative-Drawing/blob/c2b3749efb330332f6d6a434f6948953d7177ef2/images%3Agifs/autonomous_agent_gif.gif">
+<p> This animation draws inspiration from the networks of fungal roots and was created using Boids code.</p>
 
 
-
-### ALTR Space (Recursive Sketch)
-In some distant galaxy, stars take on the form of various-sized rectangles, adrift in the immense expanse of space.
-3d recursive function.
-
-![]([https://github.com/gpols/Generative-Drawing/blob/ccbbce6839d65c2d339fdff6b978ad61bc45fca3/images%3Agifs/recursive.png](https://github.com/gpols/Generative-Drawing/blob/128e28c7dbc52a1fc63ae78a566b2206ef4ff374/images%3Agifs/recursive.png))
-
-### Mycelium (Autonomous Agent Sketch)
-This animation draws inspiration from the networks of fungal roots and was created using Boids code.
-
-![](https://github.com/gpols/Generative-Drawing/blob/c2b3749efb330332f6d6a434f6948953d7177ef2/images%3Agifs/autonomous_agent_gif.gif)
 
 
 
