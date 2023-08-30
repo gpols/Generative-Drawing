@@ -6,22 +6,27 @@
 <h2> Dancing flower </h2>
 <p><em> ~ Phase Sketch ~ </em></p>
 
-<img src="https://github.com/gpols/Generative-Drawing/blob/0188bf397111e9d827821e76ec5427039312cf03/phase_sketch.gif">
+<img src="https://github.com/gpols/Generative-Drawing/blob/0188bf397111e9d827821e76ec5427039312cf03/phase_sketch.gif" width="400">
 <p> A version of one of many possibilities of the mathematical rose using sine and cosine.</p>
+<br>
+
+<h2> The Running Blocks </h2>
+<p><em> ~ Random Sketch ~ </em></p>
+
+<img src="https://github.com/gpols/Generative-Drawing/blob/e8fc57195786fade6053f0f43d8e5637368b3c89/images%3Agifs/random.gif" width="400">
+<p> I have always been fascinated by symmetry. </p>
+<p> I remember coming across images of massive identical blocks of buildings in Asia one next to another, </p>
+<p> making it almost impossible to tell them apart. I thought it would be intriguing to attempt to recreate such a concept.</p>
+<p> Random is so fun! </p>
+<br>
+
+<h2> Ocean Waves </h2>
+<p><em> ~ Sinusoidal Sketch ~ </em></p>
+
+<img src="https://github.com/gpols/Generative-Drawing/blob/f0bf349e9b138afe903077c842232f6aab938417/images%3Agifs/sinusoidal.gif" width="400">
+<p> Attempt to create ocean waves with additive synthesis. </p>
 
 
-### The Running Blocks (Random Sketch)
-I have always been fascinated by symmetry. 
-I remember coming across images of massive identical blocks of buildings in Asia one next to another, 
-making it almost impossible to tell them apart. I thought it would be intriguing to attempt to recreate such a concept.
-Random is so fun!
-
-![](https://github.com/gpols/Generative-Drawing/blob/e8fc57195786fade6053f0f43d8e5637368b3c89/images%3Agifs/random.gif)
-
-### Ocean Waves (Sinusoidal Sketch)
-Attempt to create ocean waves with additive synthesis.
-
-![](https://github.com/gpols/Generative-Drawing/blob/f0bf349e9b138afe903077c842232f6aab938417/images%3Agifs/sinusoidal.gif)
 
 ### ALTR Space (Recursive Sketch)
 In some distant galaxy, stars take on the form of various-sized rectangles, adrift in the immense expanse of space.
