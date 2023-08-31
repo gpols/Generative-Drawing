@@ -28,7 +28,10 @@
 <p><em> ~ Sinusoidal Sketch ~ </em></p>
 
 <img src="https://github.com/gpols/Generative-Drawing/blob/f0bf349e9b138afe903077c842232f6aab938417/images%3Agifs/sinusoidal.gif">
-<p> Attempt to create ocean waves with additive synthesis. </p>
+<p> Creating organic forms can be quite challenging in art. It's certainly a goal I'd like to achieve in one of my sketches. </p>
+<p> I've decided to take on the challenge of recreating the dynamic and ever-changing shapes of ocean waves. </p>
+<p> Unlike real waves, these will maintain a consistent and controlled shape. </p>
+<li> Use of additive synthesis. </li>
 <br>
 
 <h2> ALTR Space </h2> 
