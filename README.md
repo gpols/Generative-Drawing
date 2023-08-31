@@ -17,10 +17,11 @@
 <p><em> ~ Random Sketch ~ </em></p>
 
 <img src="https://github.com/gpols/Generative-Drawing/blob/e8fc57195786fade6053f0f43d8e5637368b3c89/images%3Agifs/random.gif" width="400">
-<p> I have always been fascinated by symmetry. </p>
-<p> I remember coming across images of massive identical blocks of buildings in Asia one next to another, </p>
-<p> making it almost impossible to tell them apart. I thought it would be intriguing to attempt to recreate such a concept.</p>
-<p> Random is so fun! </p>
+<p> Symmetry has always intrigued me. </p>
+<p> I remember stumbling upon pictures of those huge, identical rows of buildings in Asia, where you couldn't even tell them apart.</p> 
+<p> I thought it'd be cool to give it a shot, you know, just for fun! </p>
+<li> Extensive use of random.</li>
+<li> Applied colour theory.</li>
 <br>
 
 <h2> Ocean Waves </h2>
