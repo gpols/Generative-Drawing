@@ -7,7 +7,10 @@
 <p><em> ~ Phase Sketch ~ </em></p>
 
 <img src="https://github.com/gpols/Generative-Drawing/blob/0188bf397111e9d827821e76ec5427039312cf03/phase_sketch.gif" width="400">
-<p> A version of one of many possibilities of the mathematical rose using sine and cosine.</p>
+<p> My very first attempt at coding for art was a wild ride! So many options, so many cool ideas bouncing around. </p>
+<p> After a bit of digging, I ended up diving into the fascinating world of mathematical roses. </p>
+<li> Use of sine and cosine.  </li> 
+<li> RGB colour mapped. </li>
 <br>
 
 <h2> The Running Blocks </h2>
