@@ -48,7 +48,11 @@
 <p><em> ~ Autonomous Agent Sketch ~ </em></p>
 
 <img src="https://github.com/gpols/Generative-Drawing/blob/c2b3749efb330332f6d6a434f6948953d7177ef2/images%3Agifs/autonomous_agent_gif.gif">
-<p> This animation draws inspiration from the networks of fungal roots and was created using Boids code.</p>
+<p> The inspiration for this sketch came from my appreciation for the real of plants. </p> 
+<p> Expecifically from Field Guide to the Mushrooms & Toadstools, a book found at my bedside table.  </p>
+<p> This time,  the organic forms drawn are found in the hidden roots of fungi. </p>
+<li> Constructor function </li>
+<li> Boids </li>
 
 
 
